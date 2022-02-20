@@ -7,4 +7,8 @@ do 18,5: podvýživa
 25 – 29,9: nadváha
 30 a viac: obezita
 
+<<<<<<< HEAD
 ![alt text](./img/BMI-calculator.png)
+=======
+Aplikácia bola vytvorená pomocou online tutoriálu.
+>>>>>>> 4700d465c563f8e7bb9e4c42806c26c06174812c
