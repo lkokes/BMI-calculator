@@ -1,13 +1,12 @@
-Aplikácia na výpočet BMI indexu.
-Po zadaní hmotnosti a výšky dostanete hodnotu BMI indexu.
+Application for calculating the BMI index. After entering the weight and height, you will receive the value of the BMI index.
 
-Ak je výsledná hodnota:
+If the resulting value is:
 
-- do 18,5: podvýživa
-- 18,5 – 24,9: ideálna a zdravá váha
-- 25 – 29,9: nadváha
-- 30 a viac: obezita
+- up to 18.5: malnutrition 
+- 18.5 - 24.9: ideal and healthy weight 
+- 25 - 29.9: overweight 
+- 30 and over: obesity
 
-Aplikácia bola vytvorená pomocou online tutoriálu.
+The application was created using an online tutorial.
 
 ![alt text](./img/BMI-calculator.png)
